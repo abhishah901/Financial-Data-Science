@@ -1,0 +1,42 @@
+get-series.py:22: FutureWarning: The signature of `Series.to_csv` was aligned to that of `DataFrame.to_csv`, and argument 'header' will change its default value from False to True: please pass an explicit value to suppress this warning.
+  hold_series.to_csv(filename)
+('XTEXVA01USM664S : ', 783)
+First and last rows:
+1955-01-01             NaN
+2020-03-01    1.280130e+11
+dtype: float64
+('GDP : ', 297)
+First and last rows:
+1946-01-01         NaN
+2020-01-01    21537.94
+dtype: float64
+('PCE : ', 735)
+First and last rows:
+1959-01-01      306.1
+2020-03-01    13813.2
+dtype: float64
+('CES0500000003 : ', 170)
+First and last rows:
+2006-03-01    20.04
+2020-04-01    30.01
+dtype: float64
+('A939RC0Q052SBEA : ', 293)
+First and last rows:
+1947-01-01     1699.0
+2020-01-01    65360.0
+dtype: float64
+('FGCCSLQ027S : ', 293)
+First and last rows:
+1946-10-01        0.0
+2019-10-01    68335.0
+dtype: float64
+('TOTCI : ', 2471)
+First and last rows:
+1973-01-03     134.0421
+2020-05-06    3079.1231
+dtype: float64
+('FEDFUNDS : ', 790)
+First and last rows:
+1954-07-01    0.80
+2020-04-01    0.05
+dtype: float64
