@@ -1,0 +1,58 @@
+nohup: ignoring input
+get-series.py:22: FutureWarning: The signature of `Series.to_csv` was aligned to that of `DataFrame.to_csv`, and argument 'header' will change its default value from False to True: please pass an explicit value to suppress this warning.
+  hold_series.to_csv(filename)
+('LNU02073395 : ', 160)
+First and last rows:
+2007-01-01    22356.0
+2020-04-01    21961.0
+dtype: float64
+('CES0500000003 : ', 170)
+First and last rows:
+2006-03-01    20.04
+2020-04-01    30.01
+dtype: float64
+('UNRATENSA : ', 868)
+First and last rows:
+1948-01-01     4.0
+2020-04-01    14.4
+dtype: float64
+('JTSJOL : ', 232)
+First and last rows:
+2000-12-01    4868.0
+2020-03-01    6191.0
+dtype: float64
+('JTSLDL : ', 232)
+First and last rows:
+2000-12-01     2035.0
+2020-03-01    11372.0
+dtype: float64
+('LNS13023653 : ', 640)
+First and last rows:
+1967-01-01      381.0
+2020-04-01    18063.0
+dtype: float64
+('NILFWJN : ', 316)
+First and last rows:
+1994-01-01    6723.0
+2020-04-01    9916.0
+dtype: float64
+('JTS1000JOL : ', 232)
+First and last rows:
+2000-12-01    4364.0
+2020-03-01    5462.0
+dtype: float64
+('ICSA : ', 2784)
+First and last rows:
+1967-01-07     208000.0
+2020-05-09    2981000.0
+dtype: float64
+('USGOOD : ', 976)
+First and last rows:
+1939-01-01    11098.0
+2020-04-01    18776.0
+dtype: float64
+('SRVPRD : ', 976)
+First and last rows:
+1939-01-01     18825.0
+2020-04-01    112269.0
+dtype: float64
